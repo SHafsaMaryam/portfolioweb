@@ -1,3 +1,3 @@
 # portfolioweb
-# Web page of portolio 
-# By Hafsa MAryam
+# Web page of portfolio 
+# By Hafsa Maryam
