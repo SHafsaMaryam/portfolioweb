@@ -297,8 +297,9 @@ box-shadow: 0 0 1rem #59b2f4;
 }
 .footer-text{
     font-size: 1.6rem;
+    text-align: center;
 }
-.footer-iconTop{
+.footer-icon{
     display:inline-flex;
     justify-content: center;
     align-items: center;
@@ -435,6 +436,7 @@ box-shadow: 0 0 1rem #59b2f4;
     }
 
 }
+
 
 
 
