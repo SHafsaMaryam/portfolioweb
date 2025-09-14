@@ -57,7 +57,7 @@ header{
     margin-left: 4rem;
     font-weight: 700;
 }
-.navbar a:hover, .navbar a:active{
+.navbar a:hover .navbar a:active{
     color: #59f1f4;
 }
 #menu-icon{
@@ -435,5 +435,6 @@ box-shadow: 0 0 1rem #59b2f4;
     }
 
 }
+
 
 
